@@ -22,6 +22,7 @@ AdaptiveDrag:Semantic-Driven Dragging on Diffusion-Based Image Editing
   </p>
   <div align="center">
     <img src="./results/VITON-HD.png", width="700">
+    <br>
     <img src="./results/Dragbench.png", width="700">
   </div>
   <!-- <div align="center">
