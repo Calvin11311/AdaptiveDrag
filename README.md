@@ -3,7 +3,6 @@
 AdaptiveDrag:Semantic-Driven Dragging on Diffusion-Based Image Editing
 </h1>
   <p align="center">
-    <!-- <a href="https://yujun-shi.github.io/"> -->
     <strong>DuoSheng Chen</strong></a>
     &nbsp;&nbsp;
     <strong>Binghui Chen</strong>
@@ -15,20 +14,13 @@ AdaptiveDrag:Semantic-Driven Dragging on Diffusion-Based Image Editing
     <strong>Liefeng Bo</strong></a>
     <br>Institute for Intelligent Computing, Alibaba Group
   </p>
-    <p align="center">
-    <a href="https://arxiv.org/pdf/2410.12696"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2410.12696-b31b1b.svg"></a>
-    <!-- <a href="https://yujun-shi.github.io/projects/dragdiffusion.html"><img alt='page' src="https://img.shields.io/badge/Project-Website-orange"></a> -->
-    <!-- <a href="https://twitter.com/YujunPeiyangShi"><img alt='Twitter' src="https://img.shields.io/twitter/follow/YujunPeiyangShi?label=%40YujunPeiyangShi"></a> -->
+  <p align="center">
+  <a href="https://arxiv.org/pdf/2410.12696"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2410.12696-b31b1b.svg"></a>
   </p>
   <div align="center">
-    <img src="./results/VITON-HD.png", width="700">
-    <br>
-    <img src="./results/Dragbench.png", width="700">
+    <img src="./results/VITON-HD.jpg", width="700">
+    <img src="./results/Dragbench.png" width="700">
   </div>
-  <!-- <div align="center">
-    <img src="./release-doc/asset/github_video.gif", width="700">
-  </div> -->
-
 </p>
 
 
